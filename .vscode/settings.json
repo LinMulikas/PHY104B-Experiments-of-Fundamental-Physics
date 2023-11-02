@@ -2,5 +2,12 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
     },
-    "python.formatting.provider": "none"
+    "python.formatting.provider": "none",
+    "files.associations": {
+        "*.m": "matlab",
+        "*.hs": "haskell",
+        "*.rkt": "racket",
+        "*.typ": "typst",
+        "ostream": "cpp"
+    }
 }
