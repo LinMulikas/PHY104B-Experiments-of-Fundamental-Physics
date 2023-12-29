@@ -9,5 +9,6 @@
         "*.rkt": "racket",
         "*.typ": "typst",
         "ostream": "cpp"
-    }
+    },
+    "julia.environmentPath": "/Users/mulikas/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/PHY104B-Experiments-of-Fundamental-Physics"
 }
